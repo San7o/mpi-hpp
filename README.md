@@ -4,12 +4,12 @@ This repository contains c++ bindings for OpenMPI, currently 5.0.6.
 
 Note that this is nothing fancy nor impressive. So far, I have just
 wrapped some functions and structs in the `mpi` namespace so it
-"looks more like" c++. Surprisingly, no up-to-date c++ header can be
+"looks more like" c++. Surprisingly, no up-to-date c++ headers can be
 found online for OpenMPI. If you want a truly c++ ideomatic implementation
 of MPI, look at [Boost.MPI](https://www.boost.org/doc/libs/1_86_0/doc/html/mpi.html),
 however the documentation states that "at present, Boost.MPI supports the majority
 of functionality of MPI 1.1" which is quite old since the last MPI version
-released is 4.1 and I don't know what are they planning to do.
+released is 4.x and I don't know what are they planning to do.
 
 ## Current State
 
