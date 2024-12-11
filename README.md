@@ -9,7 +9,7 @@ found online for OpenMPI. If you want a truly c++ ideomatic implementation
 of MPI, look at [Boost.MPI](https://www.boost.org/doc/libs/1_86_0/doc/html/mpi.html),
 however the documentation states that "at present, Boost.MPI supports the majority
 of functionality of MPI 1.1" which is quite old since the last MPI version
-released is 4.x and I don't know what are they planning to do.
+released is 4.x and I don't know what the Boost folks are planning to do.
 
 ## Current State
 
